@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+body{ padding:0px; margin:0px; border:0px;font-size:12px}
+.zong{ width:1065px; height:3700px; background-color:#000;}
+.dht{ width:1062px; height:30px;  }
+.dht ul{ list-style-type:none; position:absolute; top:60px; position:absolute; left:30px;}
+.dht ul li{ float:left; }
+.dht a:link,a:visited{color:#fff; text-decoration:none;}
+.dht a:hover{color:#red; text-decoration:underline}
+.dht a{ display:block; padding-left:0px; padding-right:50px; padding-top:5px; padding-bottom:5px;}
+.zhanting{ width:900px; height:700px;  color:#FFF; position:absolute; top:140px; left:80px;}
+.hr1{ width:1065px; position:absolute; top:3500px; color:#FFF}
+.hr2{ width:1065px; position:absolute; top:3520px; color:#FFF}
+.xia{ width:1062px; height:19px;position:absolute; top:910px; color:#FFF;padding-left:30px}
+.xia ul{ list-style:none; position:absolute; top:2588px}
+.xia ul li{ float:left; padding-left:30px}
+a:link{ color:#fff; text-decoration:none;}
+a:visited{ color:#EEEEEE; text-decoration:none;}
+a:hover{ color:#F00; text-decoration:underline}
+.zongceng{width:1065px; height:2000px; position:absolute; top:0px; left:50%; margin-left:-533px;}
+.dibu{ width:1065px; height:30px; color:#FFF; position:absolute; top:3560px; }
+.tijiao{ position:absolute; left:140px;top:300px;}
+.right{ position:absolute; top:180px; left:500px; border-style:solid; border-width:1px; border-color:#FFF;}
+.bw{font-size: 16px;line-height:2em;}
+.tz{width: 670px;height: 502px;}
+

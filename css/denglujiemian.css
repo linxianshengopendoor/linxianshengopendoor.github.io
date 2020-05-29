@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+body{ padding:0px; margin:0px; border:0px;font-size:12px}
+.zong{ width:1065px; height:700px; background-color:#000;}
+.dht{ width:1062px; height:30px; background-color:#000; }
+.dht ul{ list-style:none; position:absolute; top:60px}
+.dht ul li{ float:left; padding-left:50px;}
+a:link,a:visited{ color:#FFF; text-decoration:none;}
+a:hover{ color:#F00; text-decoration:underline}
+.denglu{ width:400px; height:300px; position:absolute; left:350px; top:200px; }
+.juzhong{ position:absolute; left:110px; top:40px; font-size:20px; color:#FFF; }
+.sj{ color:#fff; font-size:16px; position:absolute; left:80px; top:80px;}
+.mima{ color:#fff; font-size:16px; position:absolute; left:80px; top:110px;}
+.dl{ position:absolute; left:110px; top:140px; }
+.zc{ position:absolute; left:180px; top:140px; }
+.cz{ position:absolute; left:250px; top:140px; }
+.hr1{ width:1065px; position:absolute; top:600px; color:#FFF}
+.hr2{ width:1065px; position:absolute; top:620px; color:#FFF}
+.xia{ width:1062px; height:19px;position:absolute; top:610px; color:#FFF}
+ul{ list-style:none; position:absolute; top:-12px}
+ul li{ float:left; padding-left:30px}
+a:link,avisited{ color:#FFF; text-decoration:none;}
+a:hover{ color:#F00; text-decoration:underline}
+.zongceng{width:1065px; height:700px; position:absolute; top:0px; left:50%; margin-left:-533px;}
+.dibu{ width:1065px; height:30px; color:#FFF; position:absolute; top:670px; }
+

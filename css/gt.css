@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+body{ padding:0px; margin:0px; border:0px;font-size:12px}
+.zong{ width:1065px; height:3800px; background-color:#000000;}
+.dht{ width:1062px; height:30px; }
+.dht ul{ list-style:none; position:absolute; top:60px }
+.dht ul li{ float:left; padding-left:50px;}
+a:link,a:visited{ color:#FFF; text-decoration:none;}
+a:hover{ color:#F00; text-decoration:underline}
+.hr1{ width:1065px; position:absolute; top:3600px; color:#FFF}
+.hr2{ width:1065px; position:absolute; top:3620px; color:#FFF}
+.xia{ width:1062px; height:19px; position:absolute; top:1710px; color:#FFF}
+ul{ list-style:none; position:absolute; top:1888px}
+ul li{ float:left; padding-left:30px}
+a:link,a:visited{ color:#FFF; text-decoration:none;}
+a:hover{ color:#F00; text-decoration:underline}
+.zongceng{width:1065px; height:3000px; position:absolute; top:0px; left:50%; margin-left:-533px;}
+.dibu{ width:1065px; height:30px; color:#FFF; position:absolute; top:3700px; }
+.wenzi1{ color:#FFF; position:absolute; left:230px; top:350px; }
+.wz1{ font-size:18px; font-family:"宋体" ; color:rgba(255,255,255,0.8); }
+.yinpin{ position:absolute; left:280px; top:3450px;}
+.wenzi2{ color:#FFF; position:absolute; left:280px; top:3350px; }
+.jieshao{color:#FFF; font-size: 18px;line-height:2em;}
+.bt1{font-size: 25px;}
+.bdsharebuttonbox{padding-top: 100px;}
+.fd{padding-top: 50px;}
+
+.crumbs{position: absolute;top: 100px;}

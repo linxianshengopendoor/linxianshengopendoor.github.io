@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+body{ padding:0px; margin:0px; border:0px;font-size:12px}
+.zong{ width:1065px; }
+.dht{ width:1062px; height:30px; background-color:#000; }
+.dht ul{ list-style:none; position:absolute; top:60px}
+.dht ul li{ float:left; padding-left:50px;}
+a:link,a:visited{ color:#FFF; text-decoration:none;}
+a:hover{ color:#F00; text-decoration:underline}
+.chexi{ width:800px ;color:#FFF; position:absolute; left:100px; top:150px; }
+.hx{ width:800px; position:absolute; top:45px; color:#FFF}
+.1{ float:right; position:absolute; top:70px; }
+.hr1{ width:1065px; position:absolute;left:-100px; top:2650px; color:#FFF}
+.hr2{ width:1065px; position:absolute;left:-100px; top:2670px; color:#FFF}
+.xia{ width:1062px; height:19px;position:absolute; top:910px; color:#FFF}
+ul{ list-style:none; position:absolute; top:2651px}
+ul li{ float:left; padding-left:30px}
+a:link,avisited{ color:#FFF; text-decoration:none;}
+a:hover{ color:#F00; text-decoration:underline}
+.zongceng{width:1065px; height:4300px; position:absolute; top:0px; left:50%; margin-left:-533px; background-color:#000}
+.dibu{ width:1065px; height:30px; color:#FFF; position:absolute; top:2730px; left:330px; }
+.tijiao{ position:absolute; left:140px;top:300px;}
+.right{ position:absolute; top:180px; left:500px; border-style:solid; border-width:1px; border-color:#FFF;}
+.jiaoche{ position:absolute; top:1300px; }
+
